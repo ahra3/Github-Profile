@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Deep Learning, Reinforcement learning**
 
-- 👯 I’m looking to collaborate on **Building the 1st B2B MarketPlace in Algeria**
+- 👯 I’m currently collaborating on **Building the 1st B2B MarketPlace in Algeria**
 
 - 💬 Ask me about **Python, Django,**
 
 - 📫 How to reach me **z.marouf@esi-sba.dz**
 
-- ⚡ Fun fact **I'm obsessed by learning new things .**
+- ⚡ Fun fact **I'm obsessed with learning new things .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
