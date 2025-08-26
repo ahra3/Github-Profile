@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahra3&label=Profile%20views&color=0e75b6&style=flat" alt="ahra3" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Different Projects**
+- 🔭 I’m currently working on **Different Machine Learning Projects**
 
 - 🌱 I’m currently learning **Deep Learning, Reinforcement learning**
 
